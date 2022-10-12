@@ -1,1 +1,3 @@
 # cssShadowMouse
+
+![Screenshot](mouseShadow.gif)
